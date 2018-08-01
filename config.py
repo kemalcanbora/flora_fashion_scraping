@@ -1,6 +1,5 @@
 CRUZ_START_PAGE = 1
 CRUZ_END_PAGE = 3
-MANGO_PAGE_NO = 1
 
 moda_cruz_category_url_list = [
      "https://www.modacruz.com/c/canta",
@@ -22,18 +21,6 @@ moda_cruz_category_url_list = [
      "https://www.modacruz.com/c/dis-giyim/palto-kaban",
      "https://www.modacruz.com/c/dis-giyim/mont",
      "https://www.modacruz.com/c/dis-giyim/trenckot"
-                     ]
-
-mango_category_url_list = [
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=vestidos&menu=familia;32&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=camisas&menu=familia;14&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=camisetas&menu=familia;18,318,320,46&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=cardigans&menu=familia;55,355&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=chaquetas&menu=familia;4,304&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=pantalones&menu=familia;26,326&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.prendas/?idSubSection=faldas&menu=familia;20&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.accesorios/?idSubSection=bolsos&menu=accesorio;40,340,440&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4",
-  "https://shop.mango.com/services/productlist/products/TR/she/sections_she_Rebajas_MediaVisibilidad.accesorios/?idSubSection=zapatos&menu=accesorio;42,342,442&saleSeasons=2,1&pageNum="+str(MANGO_PAGE_NO)+"&rowsPerPage=20&columnsPerRow=4"
                      ]
 
 HEADERS_GET = {
